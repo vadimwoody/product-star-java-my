@@ -1,7 +1,2 @@
-# product-star-java-my
-
-content_1
-
-content_from_pc
-
-CONTENT from pc 1
+rontent_2 fron git
+>>>>>>> 05e3dee44902def3d7030126e095fc739f522b02
